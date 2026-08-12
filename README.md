@@ -1,7 +1,7 @@
 # Carlos Guzmán Torres
 
 **Software Engineer** · Java · Spring Boot · Python
-Systems Engineering, Politécnico Grancolombiano (2026)
+Systems Engineering, Politécnico Grancolombiano
 
 I build software that reaches production. Five years working in education technology —
 automation, data and LMS platforms — with the last year focused on designing and shipping
