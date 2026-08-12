@@ -24,7 +24,7 @@ I build software that reaches production. Five years working in education techno
 **Stack:** *Java 17 · Spring Boot 3 · React · MySQL · JWT · Docker*  
 Multi-supplier order flow with independent per-supplier fulfilment, role-based access for three user types, and delivery-conditioned reviews.  
 
-**🏆 [Canvas LMS Automation](REEMPLAZA_AQUI_CON_TU_URL)** — Production system, in daily use  
+**🏆 [Canvas LMS Automation](https://canvas-automation.vercel.app/)** — Production system, in daily use  
 **Stack:** *Python · FastAPI · React · TypeScript · GitHub Actions*  
 Cut virtual classroom setup from 240 to 25 minutes (**89.58%**) and multiplied the team's operational capacity by **10x**, serving **61,000 users**. 🧪 434 unit tests, 71% coverage, Clean Architecture in four layers, CI/CD pipeline.
 
