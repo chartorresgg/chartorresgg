@@ -20,7 +20,7 @@ I build software that reaches production. Five years working in education techno
 
 ### 🚀 Featured projects
 
-**🎵 [SongStock]({{url}})** — Full-stack vinyl and digital music marketplace  
+**🎵 [SongStock]({{https://github.com/chartorresgg/songstock}})** — Full-stack vinyl and digital music marketplace  
 **Stack:** _Java 17 · Spring Boot 3 · React · MySQL · JWT · Docker_
 Multi-supplier order flow with independent per-supplier fulfilment, role-based access for three user types, and delivery-conditioned reviews.  
 🔗 [Live demo]({{url}}) · 📄 [API docs]({{url}})
@@ -30,7 +30,7 @@ Multi-supplier order flow with independent per-supplier fulfilment, role-based a
 Cut virtual classroom setup from 240 to 25 minutes (**89.58%**) and multiplied the team's operational capacity by **10x**, serving **61,000 users**. 🧪 434 unit tests, 71% coverage, Clean Architecture in four layers, CI/CD pipeline.  
 🔗 [Live demo]({{url}}) · 📊 [Case study]({{url}})
 
-**🏢 [Microservices Architecture]({{url}})** — Distributed systems exercise  
+**🏢 [Microservices Architecture]({{https://github.com/chartorresgg/microservices-architecture}})** — Distributed systems exercise  
 **Stack:** _Spring Boot · Eureka · MongoDB · MySQL · Docker Compose_  
 Service discovery, polyglot persistence and synchronous inter-service communication — including a written analysis of when *not* to use microservices.
 
