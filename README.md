@@ -9,7 +9,7 @@ full-stack applications with clean architecture, automated testing and CI/CD.
 
 🎯 **Currently looking for:** Full-Stack or Backend Java roles (hybrid in Bogotá or remote).
 
---
+---
 
 ### Tech
 
