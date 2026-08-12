@@ -1,4 +1,4 @@
-# 👨‍💻 Carlos Guzmán Torres
+# Carlos Guzmán Torres
 
 **Software Engineer** · _☕ Java · 🍃 Spring Boot · 🐍 Python  _
 <br>🎓 Systems Engineering, Politécnico Grancolombiano
