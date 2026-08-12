@@ -1,6 +1,6 @@
 # Carlos Guzmán Torres
 
-**Software Engineer** · _☕ Java · 🍃 Spring Boot · 🐍 Python  _
+**Software Engineer** _Java · Spring Boot · Python_
 <br>🎓 Systems Engineering, Politécnico Grancolombiano
 
 I build software that reaches production. Five years working in education technology — automation, data and LMS platforms — with the last year focused on designing and shipping full-stack applications with clean architecture, automated testing and CI/CD.
