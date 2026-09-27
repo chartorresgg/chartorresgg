@@ -36,7 +36,7 @@ Service discovery, polyglot persistence and synchronous inter-service communicat
 
 ### 🌟 About me
 
-🥇 Best academic average in Systems Engineering (Bogotá campus), 2025-1 and 2025-2 · 📜 Academic Excellence Scholarship 2025-2 · 📈 GPA 4.7/5.0  
+🥇 Best academic average in Systems Engineering (Bogotá campus), 2025-1 and 2025-2 · 📜 Academic Excellence Scholarship 2025-2 · 📈 GPA 4.77/5.0  
 ☁️ Currently preparing for AWS Certified Cloud Practitioner.
 
 📫 [LinkedIn](https://linkedin.com/in/chartorresg) · ✉️ chartorresg@gmail.com
